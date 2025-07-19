@@ -31,7 +31,11 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom and g
 
 👉 **Join Meetings via Link**: Easily join meetings created by others by providing a link.
 
+<<<<<<< HEAD
 👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions.
+=======
+👉 **Secure Real-time Functionality**: All interactions within the platform are secure and occur in real-time, maintaining user privacy and data integrity.
+>>>>>>> 3c11deeca024d0bf878e78e2f5b0cc709cbad62b
 
 and many more, including code architecture and reusability. 
 
@@ -83,3 +87,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3c11deeca024d0bf878e78e2f5b0cc709cbad62b
