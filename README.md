@@ -15,29 +15,23 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom and g
 ## <a name="features">🔋 Features</a>
 
 
-👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
+ **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
-👉 **New Meeting**: Quickly start a new meeting, configuring camera and microphone settings before joining.
+**New Meeting**: Quickly start a new meeting, configuring camera and microphone settings before joining.
 
-👉 **Meeting Controls**: Participants have full control over meeting aspects, including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and individual participant management (pinning, muting, unmuting, blocking, allowing video share).
+ **Meeting Controls**: Participants have full control over meeting aspects, including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and individual participant management (pinning, muting, unmuting, blocking, allowing video share).
 
-👉 **Exit Meeting**: Participants can leave a meeting, or creators can end it for all attendees.
+ **Exit Meeting**: Participants can leave a meeting, or creators can end it for all attendees.
 
-👉 **Schedule Future Meetings**: Input meeting details (date, time) to schedule future meetings, accessible on the 'Upcoming Meetings' page for sharing the link or immediate start.
+**Schedule Future Meetings**: Input meeting details (date, time) to schedule future meetings, accessible on the 'Upcoming Meetings' page for sharing the link or immediate start.
 
-👉 **Past Meetings List**: Access a list of previously held meetings, including details and metadata.
+ **Past Meetings List**: Access a list of previously held meetings, including details and metadata.
 
-👉 **View Recorded Meetings**: Access recordings of past meetings for review or reference.
+ **View Recorded Meetings**: Access recordings of past meetings for review or reference.
 
-👉 **Join Meetings via Link**: Easily join meetings created by others by providing a link.
+ **Join Meetings via Link**: Easily join meetings created by others by providing a link.
 
-<<<<<<< HEAD
-👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions.
-=======
-👉 **Secure Real-time Functionality**: All interactions within the platform are secure and occur in real-time, maintaining user privacy and data integrity.
->>>>>>> 3c11deeca024d0bf878e78e2f5b0cc709cbad62b
 
-and many more, including code architecture and reusability. 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -86,8 +80,3 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 3c11deeca024d0bf878e78e2f5b0cc709cbad62b
